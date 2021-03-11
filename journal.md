@@ -1,6 +1,6 @@
 Type: #journal 
-Topics: [[Life]] [[Mental Health]]
-Datetime: {{date}} {{time}}
+Topics: [[Life]] [[Mental Health]] [[Routine]] [[Habit]]
+Date: {{date}}
 
 ---
 
