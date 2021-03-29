@@ -1,13 +1,21 @@
-Type: #journal 
+Tags: #journal 
 Topics: [[Life]]
 Date: {{date}}
 
 ---
 
-## I am grateful for...
+## MORNING ROUTINE QUESTIONS
 
-## What would make today great?
+### I am grateful for...
 
-## Daily affirmation. I am...
+### What would make today great?
 
-## How could I have made today even better?
+### Daily affirmation. I am...
+
+---
+
+## NIGHT ROUTINE QUESTIONS
+
+### 3 Amazing things that happened today...
+
+### How could I have made today even better?
