@@ -1,5 +1,5 @@
 Tags: #journal 
-Topics: 
+Topics: [[Life]]
 Date: {{date}}
 
 ---
