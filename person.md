@@ -1,6 +1,6 @@
-Tags: #person
 Link:
 Topics: [[Contacts]]
+Tags: #person
 
 ---
 
