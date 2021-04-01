@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [people]
 title: {{title}}
 date: {{date}}
 source: 
