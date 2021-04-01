@@ -1,7 +1,8 @@
-Tags: #journal 
-Topics: [[Life]]
-Date: {{date}}
-
+---
+tags: [journal]
+title: {{title}}
+date: {{date}}
+source: 
 ---
 
 ## MORNING ROUTINE QUESTIONS
@@ -19,3 +20,7 @@ Date: {{date}}
 ### 3 Amazing things that happened today...
 
 ### How could I have made today even better?
+
+---
+
+Topics: [[Life]]
