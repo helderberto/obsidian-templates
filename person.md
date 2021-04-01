@@ -1,7 +1,8 @@
-Link:
-Topics: [[Contacts]]
-Tags: #person
-
+---
+tags: [person]
+title: {{title}}
+date: {{date}}
+source: 
 ---
 
 # {{title}}
@@ -10,3 +11,7 @@ Tags: #person
 - Birthday:
 
 ## Contacts
+
+---
+
+Topics: [[Contacts]]
