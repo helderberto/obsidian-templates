@@ -1,13 +1,13 @@
-# Obsidian Note Templates
+# Obsidian Templates
 
-In this repository I keep my note templates that I use with [Obsidian](https://obsidian.md/) tool.
+This repository I keep my [Obsidian](https://obsidian.md/) note templates.
 
 ## How to install
 
 1. Navigate to your vault root directory
 2. Clone the current repository to `@templates` directory with the following:
 ``` sh
-$ git clone git@github.com:helderburato/obsidian-note-templates.git @templates
+$ git clone git@github.com:helderburato/obsidian-templates.git @templates
 ```
 
 ## How to enable Templates plugin
