@@ -6,7 +6,6 @@ source:
 ---
 
 # {{title}}
-
 - How did I meet this person?
 - Birthday:
 
